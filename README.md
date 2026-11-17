@@ -1,4 +1,4 @@
-![Colab CLI Windows Preview](assets/your-image-name.png)
+![Colab CLI Windows Preview](assets/videoframe_11269.png)
 
 # colab-cli (Windows clone)
 
