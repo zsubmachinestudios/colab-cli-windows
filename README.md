@@ -1,3 +1,5 @@
+![Colab CLI Windows Preview](assets/your-image-name.png)
+
 # colab-cli (Windows clone)
 
 Full clone of the Google Colab CLI built on the same MCP backend as your tested `colab_basic.py`.
