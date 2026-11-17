@@ -2,7 +2,7 @@
 
 Full clone of the Google Colab CLI built on the same MCP backend as your tested `colab_basic.py`.
 
-##PLEASE NOTE THIS IS AN UNOFFICIAL COLAB CLI 
+## PLEASE NOTE THIS IS AN UNOFFICIAL COLAB CLI 
 
 ## Install (Windows)
 1. Unzip anywhere, e.g. `C:\tools\colab-cli`
