@@ -2,6 +2,8 @@
 
 Full clone of the Google Colab CLI built on the same MCP backend as your tested `colab_basic.py`.
 
+##PLEASE NOTE THIS IS AN UNOFFICIAL COLAB CLI 
+
 ## Install (Windows)
 1. Unzip anywhere, e.g. `C:\tools\colab-cli`
 2. Double-click `install.bat` (or run `pip install -e .[readline]`)
